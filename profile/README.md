@@ -6,11 +6,11 @@
 <details>
   <summary>Table des matières</summary>
 
-  - [Un peu de contexte](https://github.com/Thoth-Edu/.github/new/master#un-peu-de-contexte)
-    - [Que signifie "Thoth-Edu" ?](https://github.com/Thoth-Edu/.github/new/master#que-signifie-thoth-edu-)
-    - [Objectif de ce projet](https://github.com/Thoth-Edu/.github/new/master#objectif-de-ce-projet)
-  - [Roadmap](https://github.com/Thoth-Edu/.github/new/master#roadmap)
-  - [L'équipe](https://github.com/Thoth-Edu/.github/new/master#l%C3%A9quipe)
+  - [Un peu de contexte](https://github.com/Thoth-Edu#un-peu-de-contexte))
+    - [Que signifie "Thoth-Edu" ?](https://github.com/Thoth-Edu#que-signifie-thoth-edu-)
+    - [Objectif de ce projet](https://github.com/Thoth-Edu#objectif-de-ce-projet)
+  - [Roadmap](https://github.com/Thoth-Edu#roadmap)
+  - [L'équipe](https://github.com/Thoth-Edu#l%C3%A9quipe)
 </details>
 
 > [!Important]\
