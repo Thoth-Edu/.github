@@ -6,7 +6,7 @@
 <details>
   <summary>Table des matières</summary>
 
-  - [Un peu de contexte](https://github.com/Thoth-Edu#un-peu-de-contexte))
+  - [Un peu de contexte](https://github.com/Thoth-Edu#un-peu-de-contexte)
     - [Que signifie "Thoth-Edu" ?](https://github.com/Thoth-Edu#que-signifie-thoth-edu-)
     - [Objectif de ce projet](https://github.com/Thoth-Edu#objectif-de-ce-projet)
   - [Roadmap](https://github.com/Thoth-Edu#roadmap)
@@ -37,7 +37,7 @@ Nous essayons de proposer un maximum de personnalisation et de malléabilité po
 
 ## Roadmap
 
-Vous pouvez retrouver la liste des fonctionnalités en préparation [sur cette page](https://github.com/orgs/Thoth-Edu/projects/1)
+Vous pouvez retrouver la liste des fonctionnalités en préparation [sur cette page](https://github.com/orgs/Thoth-Edu/projects/1).
 
 ## L'équipe
 
